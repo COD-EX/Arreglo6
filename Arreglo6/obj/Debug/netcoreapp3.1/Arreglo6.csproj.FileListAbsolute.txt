@@ -1,0 +1,14 @@
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\bin\Debug\netcoreapp3.1\Arreglo6.exe
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\bin\Debug\netcoreapp3.1\Arreglo6.deps.json
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\bin\Debug\netcoreapp3.1\Arreglo6.runtimeconfig.json
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\bin\Debug\netcoreapp3.1\Arreglo6.runtimeconfig.dev.json
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\bin\Debug\netcoreapp3.1\Arreglo6.dll
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\bin\Debug\netcoreapp3.1\Arreglo6.pdb
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\obj\Debug\netcoreapp3.1\Arreglo6.csproj.AssemblyReference.cache
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\obj\Debug\netcoreapp3.1\Arreglo6.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\obj\Debug\netcoreapp3.1\Arreglo6.AssemblyInfoInputs.cache
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\obj\Debug\netcoreapp3.1\Arreglo6.AssemblyInfo.cs
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\obj\Debug\netcoreapp3.1\Arreglo6.csproj.CoreCompileInputs.cache
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\obj\Debug\netcoreapp3.1\Arreglo6.dll
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\obj\Debug\netcoreapp3.1\Arreglo6.pdb
+D:\PROYECTO 2022\1-Practicando\Arreglo6\Arreglo6\obj\Debug\netcoreapp3.1\Arreglo6.genruntimeconfig.cache

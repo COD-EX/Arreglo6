@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "38uP03x18MwjyRR6IJF9jYE+2D8DDm3B+39leH6rJvxY2niuy1GOBcN2mIcZYxsJrAw5DKk6sZmgc18883IzMQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROYECTO 2022\\1-Practicando\\Arreglo6\\Arreglo6\\Arreglo6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sistema\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
